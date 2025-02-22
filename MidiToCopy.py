@@ -43,7 +43,7 @@ def on_drop(event):
 
 # GUI Setup
 root = TkinterDnD.Tk()
-root.title("MIDI to Lua Table Converter")
+root.title("MIDI to Copy")
 root.geometry("400x200")
 root.configure(bg="#2E3440")
 root.attributes('-topmost', True)
